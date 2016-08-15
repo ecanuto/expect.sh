@@ -1,2 +1,2 @@
 #!/usr/bin/env sh
-./expect.sh tests/*
+./expect.sh test/*

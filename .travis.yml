@@ -1,2 +1,8 @@
 language: bash
-script: sh runtests.sh
+
+os:
+  - linux
+  - osx
+
+script:
+  - sh runtests.sh
